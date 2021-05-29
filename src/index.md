@@ -15,7 +15,7 @@ You can find me on [GitHub][] and [LinkedIn][].
 
 The Writings page contains some of my writings I have written over time, along with some Math Olympiad resources.
 
-[About]: https://NavneelSinghal.github.io/about
+[About]: https://NavneelSinghal.github.io
 [Writings]: https://NavneelSinghal.github.io/writings
 [Github]: https://github.com/NavneelSinghal/
 [LinkedIn]: https://www.linkedin.com/in/navneelsinghal/

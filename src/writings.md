@@ -47,7 +47,7 @@ Navneel Singhal - Writings
 1. [Evan Chen's website](https://web.evanchen.cc/).
 1. [Alexander Remorov's website](https://alexanderrem.weebly.com/math-competitions.html).
 
-[About]: https://NavneelSinghal.github.io/about
+[About]: https://NavneelSinghal.github.io
 [Writings]: https://NavneelSinghal.github.io/writings
 [Github]: https://github.com/NavneelSinghal/
 [LinkedIn]: https://www.linkedin.com/in/navneelsinghal/
