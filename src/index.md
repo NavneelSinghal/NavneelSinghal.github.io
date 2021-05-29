@@ -4,7 +4,7 @@ Navneel Singhal
 
 # Navneel Singhal
 
-| [About][] | [Writings][] | [Github][] | [LinkedIn][] |
+| [About][] | [Writings][] | [GitHub][] | [LinkedIn][] |
 | - | - | - | - |
 
 ## About
@@ -17,5 +17,5 @@ The Writings page contains some of my writings I have written over time, along w
 
 [About]: https://NavneelSinghal.github.io
 [Writings]: https://NavneelSinghal.github.io/writings
-[Github]: https://github.com/NavneelSinghal/
+[GitHub]: https://github.com/NavneelSinghal/
 [LinkedIn]: https://www.linkedin.com/in/navneelsinghal/
