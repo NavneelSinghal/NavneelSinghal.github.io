@@ -27,7 +27,7 @@ Navneel Singhal - Writings
 
 ### Problem Setting
 1. [GQMO 2020](https://www.gqmo.org/): Problems 1, 4, 8 of the hard exam, and 3, 4 of the beginner exam.
-1. [KöMaL Problems in Mathematics, November 2018](KöMaL Problems in Mathematics, November 2018): Problem A.736.
+1. [KöMaL Problems in Mathematics, November 2018](https://www.komal.hu/feladat?a=honap&h=201811&t=mat&l=en): Problem A.736.
 1. [Mock INMO 2018](https://drive.google.com/file/d/1vQ2EEawu9MwVZhnV-ZfRAQTIhfN3cCfM/view): A mock exam for INMO 2018.
 1. Some competitive programming problems [here](https://www.codechef.com/problems/CHEFSUMS), [here](https://www.hackerearth.com/problem/algorithm/the-kings-demands-1/),
    [here](https://www.hackerearth.com/problem/approximate/rig-and-flip-1/), [here](https://www.hackerearth.com/problem/approximate/graffiti/),
