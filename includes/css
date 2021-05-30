@@ -25,6 +25,5 @@
     a {
         color: teal;
         text-decoration: none;
-        display: inline-block;
     }
 </style>
