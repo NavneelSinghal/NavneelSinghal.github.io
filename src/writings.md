@@ -1,6 +1,4 @@
----
-Navneel Singhal - Writings
----
+[comment]: <> (Navneel Singhal - Writings)
 
 # Navneel Singhal
 

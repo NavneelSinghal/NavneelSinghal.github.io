@@ -1,6 +1,4 @@
----
-Navneel Singhal
----
+[comment]: <> (Navneel Singhal)
 
 # Navneel Singhal
 
@@ -11,7 +9,7 @@ Navneel Singhal
 
 I'm currently a junior undergraduate at the Indian Institute of Technology, Delhi. My interests include machine learning, competitive programming, programming languages and geometry. I also like music and photography.
 
-You can find me on [GitHub][] and [LinkedIn][].
+You can find me on [GitHub][] and [LinkedIn][]. My GPG key is [here][].
 
 The Writings page contains some of my writings I have written over time, along with some Math Olympiad resources.
 
@@ -19,3 +17,4 @@ The Writings page contains some of my writings I have written over time, along w
 [Writings]: https://NavneelSinghal.github.io/writings
 [GitHub]: https://github.com/NavneelSinghal/
 [LinkedIn]: https://www.linkedin.com/in/navneelsinghal/
+[here]: navneel.gpg.pub
