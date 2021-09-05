@@ -7,7 +7,7 @@
 
 ## About
 
-I'm currently a junior undergraduate at the Indian Institute of Technology, Delhi. My interests include machine learning, competitive programming, programming languages and geometry. I also like music and photography.
+I'm currently a senior undergraduate at the Indian Institute of Technology, Delhi. My interests include machine learning, competitive programming, programming languages and geometry. I also like music and photography.
 
 You can find me on [GitHub][] and [LinkedIn][]. My GPG key is [here][].
 
