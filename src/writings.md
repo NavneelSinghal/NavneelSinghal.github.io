@@ -2,14 +2,14 @@
 
 # Navneel Singhal
 
-| [About][] | [Writings][] | [GitHub][] | [LinkedIn][] |
-| - | - | - | - |
+| [About][] | [Writings][] | [GitHub][] | [LinkedIn][] | [Blog][] |
+| - | - | - | - | - |
 
 ## Writings
 
 ### Publications
 
-1. Navneel Singhal, [On the orthogonality of a median and a symmedian](https://forumgeom.fau.edu/FG2017volume17/FG201724index.html), Forum Geometricorum, 17 (2017) 203--206.
+1. Navneel Singhal, [On the orthogonality of a median and a symmedian](https://web.archive.org/web/20170613141531/https://forumgeom.fau.edu/FG2017volume17/FG201724index.html), Forum Geometricorum, 17 (2017) 203--206.
 1. [X(13442)](https://faculty.evansville.edu/ck6/encyclopedia/ETCPart7.html#X13442) and [X(14118)](https://faculty.evansville.edu/ck6/encyclopedia/ETCPart8.html#X14118), Kimberling Encyclopedia of Triangle Centers.
 
 ### Mathematical handouts and expositions
@@ -24,7 +24,7 @@
 1. [Practice Problems in Geometry](https://drive.google.com/file/d/0B3gLVLnxtyRvS05vQ0N6aEVqSGs/view): This is a collection of some great problems in geometry.
 
 ### Problem Setting
-1. [GQMO 2020](https://www.gqmo.org/): Problems 1, 4, 8 of the hard exam, and 3, 4 of the beginner exam.
+1. [GQMO 2020](https://web.archive.org/web/20221129015804/https://www.gqmo.org/): Problems 1, 4, 8 of the hard exam, and 3, 4 of the beginner exam. [Problem list](https://artofproblemsolving.com/community/c1152765) and results for the [easy](https://mathematics.isodn.org/timeline/GQMO-Easy/) and [hard](https://mathematics.isodn.org/timeline/GQMO-Hard/) exams.
 1. [KöMaL Problems in Mathematics, November 2018](https://www.komal.hu/feladat?a=honap&h=201811&t=mat&l=en): Problem A.736.
 1. [Mock INMO 2018](https://drive.google.com/file/d/1vQ2EEawu9MwVZhnV-ZfRAQTIhfN3cCfM/view): A mock exam for INMO 2018.
 1. Some competitive programming problems [here](https://www.codechef.com/problems/CHEFSUMS), [here](https://www.hackerearth.com/problem/algorithm/the-kings-demands-1/),
@@ -49,3 +49,4 @@
 [Writings]: https://NavneelSinghal.github.io/writings
 [GitHub]: https://github.com/NavneelSinghal/
 [LinkedIn]: https://www.linkedin.com/in/navneelsinghal/
+[Blog]: https://nor-blog.pages.dev/
