@@ -7,6 +7,8 @@
 
 ## Writings
 
+My most recent writings are on my [Blog][]. The following is a list of my older stuff.
+
 ### Publications
 
 1. Navneel Singhal, [On the orthogonality of a median and a symmedian](https://web.archive.org/web/20170613141531/https://forumgeom.fau.edu/FG2017volume17/FG201724index.html), Forum Geometricorum, 17 (2017) 203--206.

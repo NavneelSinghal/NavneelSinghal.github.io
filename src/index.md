@@ -9,9 +9,9 @@
 
 I'm currently a quant, and graduated from the Indian Institute of Technology, Delhi. My interests include machine learning, competitive programming, programming languages and geometry. I also like music and photography.
 
-You can find me on [GitHub][] and [LinkedIn][].
+You can find me on [GitHub][] and [LinkedIn][]. My most up-to-date writings are on my [Blog][].
 
-The Writings page contains some of my writings I have written over time, along with some Math Olympiad resources.
+The Writings page contains some of my older writings I have written over time, along with some Math Olympiad resources.
 
 [About]: https://NavneelSinghal.github.io
 [Writings]: https://NavneelSinghal.github.io/writings
