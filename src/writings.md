@@ -7,10 +7,11 @@
 
 ## Writings
 
-My most recent writings are on my [Blog][]. The following is a list of my older stuff.
+My most recent writings are on my [Blog][]. The following is a selected list of other stuff.
 
-### Publications
+### Papers and other publications
 
+1. Daniel Goldstein\*, **Navneel Singhal**\*, and Eugene Cheah. "Key-Value Means: Transformers with Expandable Block-Recurrent Compressed Memory." [*arXiv preprint*](https://arxiv.org/abs/2605.09877), 2026. ***Equal contribution.**
 1. Navneel Singhal, [On the orthogonality of a median and a symmedian](https://web.archive.org/web/20170613141531/https://forumgeom.fau.edu/FG2017volume17/FG201724index.html), Forum Geometricorum, 17 (2017) 203--206.
 1. [X(13442)](https://faculty.evansville.edu/ck6/encyclopedia/ETCPart7.html#X13442) and [X(14118)](https://faculty.evansville.edu/ck6/encyclopedia/ETCPart8.html#X14118), Kimberling Encyclopedia of Triangle Centers.
 
