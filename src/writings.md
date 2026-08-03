@@ -2,29 +2,29 @@
 
 # Navneel Singhal
 
-| [About][] | [Writings][] | [GitHub][] | [LinkedIn][] | [Blog][] |
-| - | - | - | - | - |
+| [About][] | [Writings][] | [Blog][] | [GitHub][] | [LinkedIn][] | [X][] |
+| - | - | - | - | - | - |
 
 ## Writings
 
-My most recent writings are on my [Blog][]. The following is a selected list of other stuff.
+This page contains a list of selected papers, mathematical writings, and problems I've written for olympiads and similar contests. More recent writings are on my [Blog][].
 
 ### Papers and other publications
 
 1. Daniel Goldstein\*, **Navneel Singhal**\*, and Eugene Cheah. "Key-Value Means: Transformers with Expandable Block-Recurrent Compressed Memory." [*arXiv preprint*](https://arxiv.org/abs/2605.09877), 2026. ***Equal contribution.**
-1. Navneel Singhal, [On the orthogonality of a median and a symmedian](https://web.archive.org/web/20170613141531/https://forumgeom.fau.edu/FG2017volume17/FG201724index.html), Forum Geometricorum, 17 (2017) 203--206.
+1. **Navneel Singhal**, [On the orthogonality of a median and a symmedian](https://web.archive.org/web/20170613141531/https://forumgeom.fau.edu/FG2017volume17/FG201724index.html), Forum Geometricorum, 17 (2017) 203--206.
 1. [X(13442)](https://faculty.evansville.edu/ck6/encyclopedia/ETCPart7.html#X13442) and [X(14118)](https://faculty.evansville.edu/ck6/encyclopedia/ETCPart8.html#X14118), Kimberling Encyclopedia of Triangle Centers.
 
-### Mathematical handouts and expositions
+### Mathematical notes and handouts
 
-1. [On a rich configuration related to tangent circles in a triangle](https://drive.google.com/file/d/13k-WjeRmh0jcX_dizXu_fVI2jB0Fi95Z/view): This paper explores a rich configuration in a triangle with loads of interesting tangencies. As a bonus, there is also a solution to problem G7 of the IMO 2002 shortist, using the results we develop in the paper.
-1. [Kepler's Laws and the Tautochrone problem](https://drive.google.com/file/d/1NGCem0jveNuhi_vbWgBpp9m0uQD0Qqlk/view): This is an excursion into the seemingly unrelatedness of the two problems as described, and a solution of one using the other.
-1. [Diophantine Equations](https://drive.google.com/file/d/0B3gLVLnxtyRvMUg3cVB4UGRJZE0/view): This is an article on important techniques in Diophantine analysis.
-1. [Isogonal Conjugates](https://drive.google.com/file/d/0B3gLVLnxtyRvUWI3SkRKSFBGdTg/view): This is a short note on isogonality, intended to exhibit its uses in mathematical olympiads.
-1. [Geometrical Gems](https://drive.google.com/file/d/0B3gLVLnxtyRvUmdLci1zcUVQNFE/view): This is a collection of some beautiful problems in geometry and some problems.
-1. [AM-GM and Thermodynamics](https://drive.google.com/file/d/0B3gLVLnxtyRvWWk4VUVXSVgzeVE/view): This is an article intended to show the AM-GM inequality using thermodynamics.
-1. [Lemmas in Olympiad Geometry](https://drive.google.com/file/d/0B3gLVLnxtyRvejlpenRmZGh6SDQ/view): This is a collection of useful results in geometry.
-1. [Practice Problems in Geometry](https://drive.google.com/file/d/0B3gLVLnxtyRvS05vQ0N6aEVqSGs/view): This is a collection of some great problems in geometry.
+1. [On a rich configuration related to tangent circles in a triangle](https://drive.google.com/file/d/13k-WjeRmh0jcX_dizXu_fVI2jB0Fi95Z/view): explores a rich configuration in a triangle with a large number of interesting tangencies, with a bonus application to problem G7 of the IMO 2002 shortist, using the results we develop.
+1. [Kepler's Laws and the Tautochrone problem](https://drive.google.com/file/d/1NGCem0jveNuhi_vbWgBpp9m0uQD0Qqlk/view): an excursion into two seemingly unrelated problems, and a solution of one using the other.
+1. [Diophantine Equations](https://drive.google.com/file/d/0B3gLVLnxtyRvMUg3cVB4UGRJZE0/view): an article on important techniques in Diophantine analysis from an Olympiad perspective.
+1. [Isogonal Conjugates](https://drive.google.com/file/d/0B3gLVLnxtyRvUWI3SkRKSFBGdTg/view): a short note on isogonality, intended to exhibit its uses in mathematical olympiads.
+1. [Geometrical Gems](https://drive.google.com/file/d/0B3gLVLnxtyRvUmdLci1zcUVQNFE/view): a collection of some beautiful configurations and problems in geometry.
+1. [AM-GM and Thermodynamics](https://drive.google.com/file/d/0B3gLVLnxtyRvWWk4VUVXSVgzeVE/view): a proof of the AM-GM inequality using thermodynamics.
+1. [Lemmas in Olympiad Geometry](https://drive.google.com/file/d/0B3gLVLnxtyRvejlpenRmZGh6SDQ/view): a collection of useful results in geometry.
+1. [Practice Problems in Geometry](https://drive.google.com/file/d/0B3gLVLnxtyRvS05vQ0N6aEVqSGs/view): a collection of practice problems for olympiad geometry.
 
 ### Problem Setting
 1. [GQMO 2020](https://web.archive.org/web/20221129015804/https://www.gqmo.org/): Problems 1, 4, 8 of the hard exam, and 3, 4 of the beginner exam. [Problem list](https://artofproblemsolving.com/community/c1152765) and results for the [easy](https://mathematics.isodn.org/timeline/GQMO-Easy/) and [hard](https://mathematics.isodn.org/timeline/GQMO-Hard/) exams.
@@ -41,7 +41,7 @@ My most recent writings are on my [Blog][]. The following is a selected list of 
 1. [AoPS resources](https://artofproblemsolving.com/wiki/index.php?title=Resources_for_mathematics_competitions).
 1. [AoPS book list](https://artofproblemsolving.com/wiki/index.php?title=Math_books).
 1. [IMOmath](https://imomath.com/).
-1. [A huge collection of articles](https://www.dropbox.com/sh/w9mfy9qtjs68xzc/AADnnQKWONBsboMGVDiuS-kAa?dl=0).
+1. [A large collection of articles](https://www.dropbox.com/sh/w9mfy9qtjs68xzc/AADnnQKWONBsboMGVDiuS-kAa?dl=0).
 1. [Canada IMO Training](https://sites.google.com/site/imocanada/).
 1. [Darij Grinberg's website](http://www.cip.ifi.lmu.de/~grinberg/) and a [backup](https://darijgrinberg.gitlab.io/).
 1. [Yufei Zhao's website](https://yufeizhao.com/).
@@ -52,4 +52,5 @@ My most recent writings are on my [Blog][]. The following is a selected list of 
 [Writings]: https://NavneelSinghal.github.io/writings
 [GitHub]: https://github.com/NavneelSinghal/
 [LinkedIn]: https://www.linkedin.com/in/navneelsinghal/
+[X]: https://x.com/norxornor
 [Blog]: https://nor-blog.pages.dev/
