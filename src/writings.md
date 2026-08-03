@@ -7,7 +7,7 @@
 
 ## Writings
 
-This page contains a list of selected papers, mathematical writings, and problems I've written for olympiads and similar contests. More recent writings are on my [Blog][].
+This page contains a list of selected papers, mathematical writings, and problems I've written for olympiads and similar contests. More recent and substantial technical writing can be found on my [Blog][].
 
 ### Papers and other publications
 

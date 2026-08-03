@@ -9,7 +9,7 @@
 
 I currently work on ML research, and graduated from the Indian Institute of Technology, Delhi. My other interests include algorithms, programming languages and geometry, and I've also spent a fair amount of time on competitive programming and math olympiads.
 
-The [Writings][] page contains a selection of my papers, mathematical writing and problem-setting stuff, along with some math olympiad resources. My [Blog][] contains more recent and substantial technical writing.
+My [Blog][] contains some of my more recent and substantial technical writing, and the [Writings][] page contains a selection of my papers, mathematical writing and problem-setting stuff, along with some math olympiad resources.
 
 You can find me on [GitHub][], [LinkedIn][], and [X][]. My GPG key is [here][] (e.g. to verify blog ownership).
 
